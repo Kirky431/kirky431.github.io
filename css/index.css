@@ -83,17 +83,17 @@ nav ul li a:hover{
 h1{
     color: white;
     margin: 20px 0px 20px;
-    font-size: 80px;
+    font-size: 100px;
 }
 h3{
     color: white;
-    font-size: 20px;
+    font-size: 35px;
     margin-bottom: 50px;
 }
 h4{
     color: #fcfc;
     letter-spacing: 2px;
-    font-size: 20px;
+    font-size: 35px;
 }
 .newslatter form{
     width: 380px;
